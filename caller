@@ -1,0 +1,5 @@
+def textParser(x):
+	return x+5
+y = 5
+y = textParser(y)
+print(y)
